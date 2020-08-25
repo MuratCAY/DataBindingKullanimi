@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Murat ÇAY</string>
+
+    <string name="Name_Style">                 Scroll View
+        \nİçine yerleştirilen görünüm hiyerarşisinin kaydırılmasına izin veren bir görünüm grubu.\n
+       \nKaydırma görünümünün içine yerleştirilmiş yalnızca bir doğrudan çocuğu olabilir.\n
+      \nKaydırma görünümüne birden çok görünüm eklemek için, örneğin bir görünüm grubu eklediğiniz doğrudan alt LinearLayout öğeyi yapın ve bu LinearLayout içine ek görünümler yerleştirin.\n
+
+      \nKaydırma görünümü yalnızca dikey kaydırmayı destekler. Yatay kaydırma için HorizontalScrollViewbunun yerine kullanın.\n
+
+       \nKaydırma görünümüne asla RecyclerViewveya eklemeyin ListView.\n
+      \nBunu yapmak, zayıf kullanıcı arayüzü performansına ve kötü bir kullanıcı deneyimine neden olur.</string>
+    <string name="what_is_your_nickname">Takma İsminiz nedir ?</string>
+    <string name="bitti">Bitti</string>
+
+</resources>
